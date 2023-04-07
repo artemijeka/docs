@@ -155,6 +155,7 @@ export default {
 ```
 
 As with other properties of the `setup()` context, `emit` can safely be destructured:
+!here is a repeat of the code above:
 
 ```js
 export default {
